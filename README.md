@@ -13,5 +13,9 @@ Actualmente estoy aprendiendo tecnologías de Microsoft:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
+## Estadísticas
+No es mucho, pero es trabajo honesto.
+<br /><br />
+![Mis stats](https://github-readme-stats.vercel.app/api?username=codeswax&count_private=true&include_all_commits=true&theme=radical)
 
 [linkedin]: https://www.linkedin.com/in/kevin-valle-soledispa-ba7161215/
