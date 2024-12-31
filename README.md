@@ -1,7 +1,9 @@
-<h1>Bienvenidos a mi perfil ;)</h1>
-Soy Kevin Valle, futuro Ingeniero en Computación. Me apasiona el desarrollo full-stack de aplicaciones web y móviles.
+<h1>Welcome to my profile! ;)</h1>
+Full-Stack Developer 👨‍💻. I'm passionate about creating innovative and scalable technological solutions, with a strong focus on quality and efficiency in software development ✅.
+Specialized in full-stack web development using Microsoft technologies:🔹C# | .NET Framework | Blazor | Transact-SQL
+Also experienced in mobile application development with:🔹 Flutter Framework
 
-## Conocimientos
+## Skills
 Actualmente estoy aprendiendo tecnologías de Microsoft:
 <br /><br />
 <img align="left" alt="C#" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" />
@@ -13,9 +15,9 @@ Actualmente estoy aprendiendo tecnologías de Microsoft:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-## Estadísticas
-No es mucho, pero es trabajo honesto.
+## Stats
+Not much, but is hard work.
 <br /><br />
-![Mis stats](https://github-readme-stats.vercel.app/api?username=codeswax&count_private=true&include_all_commits=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=codeswax&count_private=true&include_all_commits=true&theme=radical)
 
 [linkedin]: https://www.linkedin.com/in/kevin-valle-soledispa-ba7161215/
