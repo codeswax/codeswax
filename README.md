@@ -13,7 +13,13 @@ Specialized in full-stack web development using Microsoft technologies:
 <br /><br />
 Also experienced in mobile application development with:
 <br /><br />
-<img align="left" alt="Blazor" width="30px" src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react-native,flutter" />
+  </a>
+</p>
+
 <br /><br />
 
 ## Contact me!
