@@ -3,28 +3,19 @@
 <h1>Welcome to my profile! ;)</h1>
 Full-Stack Developer 👨‍💻. I'm passionate about creating innovative and scalable technological solutions, with a strong focus on quality and efficiency in software development ✅.
 
-## Skills
-Specialized in full-stack web development using Microsoft technologies:
-<br /><br />
-<img align="left" alt="C#" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" />
-<img align="left" alt=".NET" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" />
-<img align="left" alt="Blazor" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" />
-<img align="left" alt="TSQL" width="30px" height="30px" src="https://networkencyclopedia.com/wp-content/uploads/2020/04/transact-sql.jpg" />
-<br /><br />
-Also experienced in mobile application development with:
-<br /><br />
+## 💪 Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react-native,flutter" />
-  </a>
-</p>
+### 💻 Programming
+[![Programming Languages](https://skillicons.dev/icons?i=js,python,java,dart,cs)](https://skillicons.dev)
 
-<br /><br />
+### 🖱️ Computing
+[![Computing Languages](https://skillicons.dev/icons?i=html,css,sql)](https://skillicons.dev)
+
+### 🖥️ Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=flutter,angular,react,dotnet)](https://skillicons.dev)
 
 ## Contact me!
-[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
-<br /><br />
+[![Contact](https://skillicons.dev/icons?i=linkedin)][linkedin]
 
 ## Stats
 Not much, but is hard work.
