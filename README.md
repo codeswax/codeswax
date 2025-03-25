@@ -9,7 +9,7 @@ Full-Stack Developer 👨‍💻. I'm passionate about creating innovative and s
 [![Programming Languages](https://skillicons.dev/icons?i=js,python,java,dart,cs)](https://skillicons.dev)
 
 ### 🖱️ Computing
-[![Computing Languages](https://skillicons.dev/icons?i=html,css,sql)](https://skillicons.dev)
+[![Computing Languages](https://skillicons.dev/icons?i=html,css,mysql)](https://skillicons.dev)
 
 ### 🖥️ Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=flutter,angular,react,dotnet)](https://skillicons.dev)
